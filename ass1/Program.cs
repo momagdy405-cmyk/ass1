@@ -4,27 +4,17 @@ using System.Runtime.InteropServices;
 
 namespace ass1
 {
-
-    #region الكلاس داداخل ف حل اسئله كتير بقا
-    class Book
-    {
-        public string title = default!;
-        public int pages;
-    } 
+    #region q1,q2
+    /*
+     class Book
+     {
+         public string title = default!;
+         public int pages;
+     }
+    */
     #endregion
-
     internal class Program
-    {
-        #region q1,q2
-       /*
-        class Book
-        {
-            public string title = default!;
-            public int pages;
-        }
-       */
-        #endregion
-       
+    {     
         static void Main(string[] args)
         {
             #region Q1,Q2
